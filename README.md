@@ -113,5 +113,7 @@ See the 3–5 minute demo video linked in the assignment submission thread — a
 `python scripts/run_all.py` with narration explaining each step and one limitation
 explained on camera.
 
+**Build-in-public post:** [View on LinkedIn →](https://www.linkedin.com/posts/marriam-fatima-47687b409_aiml-machinelearning-flyrankinternship-share-7496473737987325952-2cIb/)
+
 ---
 *Built as part of the FlyRank AI ML Engineering Internship — Applied Search Intelligence track.*
